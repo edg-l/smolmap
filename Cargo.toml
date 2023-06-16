@@ -1,7 +1,13 @@
 [package]
 name = "smolmap"
-version = "0.1.0"
+version = "0.1.0-alpha.0"
 edition = "2021"
+description = "A hashmap on the stack."
+readme = "README.md"
+documentation = "https://docs.rs/smolmap"
+repository = "https://github.com/edg-l/smolmap"
+license = "AGPL-3.0"
+keywords = ["hashmap", "stack", "map"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
